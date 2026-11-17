@@ -1,0 +1,10 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,12,thua,2A202604052,"Box three_wheeler thu hai tren cung xe ba gac voi #11 (#11 da om ca xe + mui); trung lap -> xoa #12"
+img_003.jpg,,bo_sot,2A202604052,"Xe dap cua nguoi #4 (x~545-590, y~255-320) khong co box bicycle"
+img_003.jpg,,bo_sot,2A202604052,"Xe may do sau nguoi #16 (x~670-740, y~245-345), thay ro gio hang va banh sau, khong co box motorbike"
+img_006.jpg,,bo_sot,2A202604052,"Khoi 2-3 xe may do sat nhau sau #73 (x~390-520, y~380-500): khong box, khong ignore_region; theo CAL-02 phai gan xe co bien so/banh ro va ignore phan con lai"
+img_014.jpg,,khong,2A202604052,"Sach: 2 box three_wheeler tren quang ganh da xoa (CAL-01); bay missing person #122 da ve them"
+img_031.jpg,380,sai_vi_tri_kich_thuoc,2A202604052,"Box bicycle cat mat mam hang o yen sau (nho ~100 px ~ 18% chieu dai xe < 20% -> phai tinh vao box theo muc 4.1.5); canh trai phai ~140 thay vi 241"
+img_031.jpg,382,sai_vi_tri_kich_thuoc,2A202604052,"Box person dung o y=437 nhung chan nguoi ban hang con thay giua hai banh xe den y~670"
+img_035.jpg,443,thua,2A202604052,"Xich lo bi tach 2 box: #443 chi om phan mui do, trung voi #444 -> xoa"
+img_035.jpg,444,sai_vi_tri_kich_thuoc,2A202604052,"Box xich lo chi tu y=463, thieu phan mui; phai om ca xe + mui (x~746-815, y~428-535)"
