@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: vuomg
 - Repo bài nộp (URL): https://github.com/vuomg/K5-L2B-DAY08-2A202604052-NguyenQuocVuong-AIPrelabel
-- Commit chốt bài (hash): <<>>
+- Commit chốt bài (hash): fccecfa
 - Máy: Windows 11, NVIDIA GeForce RTX 4050 Laptop 6 GB (CUDA)
 - CVAT (Docker): v2.81.1
 
